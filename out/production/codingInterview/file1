@@ -1,0 +1,62 @@
+
+
+
+
+
+
+SUMMARY OF QUALIFICATION
+
+3-years experience on software development, 1-year experience on database
+Solid knowledge on CS fundamentals: Data Structure, Algorithm, Operating System, etc
+Passionate in learning and developing large scale distributed system and web service
+Languages: proficient in Java, C#, SQL(T-SQL); comfortable with C/C++, Ruby, Scheme, Javascript, PHP
+Expertise: Stored Procedures, Distributed System, Assembly Language, MapReduce, Hadoop, HTML5, XML
+
+
+EDUCATION
+
+　　University of Washington, Seattle, WA                         / GPA: 3.6/4.0
+　　Master of Science, Information Management                                             09/2012 - Present
+　　Courses: Programming Languages, Computer System, Advanced Database, Distributed System
+
+　　People’s University of China, Beijing, China                     GPA: 3.8/4.0
+　　Bachelor of Engineering, Information System                                            /09/2007 - 07/2011
+　　Courses: OO-Programming, Web Development, Computer Network, Operating System
+
+
+WORKING EXPERIENCE
+
+Limeade, Bellevue, WA                                                               06/2013 - 03/2014
+Software Engineer Intern
+Implemented features for a scalable inner tool named Secure Transfer (C#, Stored Procedure, T-SQL)
+Responsible for constructing mapping files to generate new report and adjusting rules in the mapping file
+Utilized RESTFUL API to implement new features to upload CSV files and downloading reports
+Improved the performance of Amazon Gift Card module by updating reward information in time
+Changed the logic in Incentive Event module to make its data sync with Challenge module
+
+　　Costco, Seattle, WA                                                                 01/2013 - 03/2013
+　　Developer and Researcher
+Reformed business process for wholesale industry and help Costco thrive in e-commerce competitor (JAVA)
+Conducted research on leveraging advanced technology to improve customers’ shopping experience
+Proposed creating mobile app to reach the target and design details of the app
+Implemented an app including features about shopping list, recommendation, searching items, and self check-out on Android Operating System
+
+Capital Window, Beijing, China                                                        06/2012 - 09/2012
+Software Engineer Intern
+Implemented the Data Collecting and Processing module of Web Timeliness Evaluation System which evaluates web timeliness by tokenization, semantic extraction, and comparison with control group (JAVA, SQL, HTML, Hibernate)
+Designed and implemented a HTML parser that extracts the desired fields based on Java regular expression
+Optimized interaction between application and RDBMS and improved system maintainability by adopting Object-Relational mapping solution under Hibernate framework
+
+
+PROJECT
+
+　　Planz Web App, UW Seattle, WA                                                      02/2014 - Present
+　　Developer of Independent Study
+Build a Personal Information Management web app by utilizing Dropbox API, XML Schema XooML and cloud computing (Javascript, Dropbox API)
+Analysis and matching the relationship between different folders via open-source search software provided through the Apache Lucene project
+
+
+　　Calculator Interpreter, UW Seattle, WA                                                10/2012 - 12/2012
+　　Developer of curriculum project
+Designed and implemented a scanner-parser structured interpreter for calculator language by constructing and unambiguous context-free grammar tree using top-down recursion approach (Ruby)
+Scanner translates input into tokens; parser reads token streams and reconstructs the derivation

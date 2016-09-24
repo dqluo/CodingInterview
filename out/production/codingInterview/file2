@@ -1,0 +1,61 @@
+
+
+
+
+
+
+SUMMARY
+
+Focus on building scalable and reliable software system with high performance
+Excellent understanding of data structure, algorithm and other computer science fundamentals
+Skills & Expertise: Proficient in Java, C#, PHP, Distributed System, MapReduce, Hadoop, SQL(T-SQL), Stored Procedures, Assembly Language, C/C++, XML, Scheme/Racket, Ruby, Javascript, HTML5, Git
+Operating System: Linux, Unix, Windows
+
+EDUCATION
+
+　　University of Washington, Seattle, WA                         /GPA: 3.74
+　　Master of Science in Information Management                                           09/2012 - 06/2014
+
+　　Renmin University of China, Beijing, China                     GPA: 3.85
+　　Bachelor of Engineering in Information Management and Information System                /09/2007 - 07/2011
+
+
+EXPERIENCE
+
+Limeade, Bellevue, WA                                                              06/2013 – Present
+Software Engineer Intern
+Developed features for a scalable rule driven engine named Secure Transfer (C#, Stored Procedure, T-SQL)
+Implemented file upload module which provided detailed error information by leveraging RESTFUL API
+Created new rules to biometric data and incorporate new rules in the process of generating reports
+Developed Claiming Amazon Gift Card feature to update reward information on time by utilizing MSMQ
+Added MSMQ to secure transfer to improve its scalability
+
+China Shenhua Coal to Liquid and Chemicals Co., Ltd. Beijing, China                   06/2012 - 08/2012
+Software Engineer Intern
+Developed the new version company website and added new features (JAVA, Hibernate, XML, HTML, SQL)
+Utilized regular expression to implement a HTML parser that returns target information from webpages
+Introduced Hibernate to optimize the data storage process, data retrieval process, and interaction process between Object-Oriented objects inside application and back-end database
+Categorized information type and stored the related and valid information to XML files, transformed the XML files into webpages
+
+　　University Bookstore, Beijing, China                                                  03/2011 - 06/2011
+　　Software Engineer Intern
+Implemented online shopping cart module for the Online Bookstore System, which kept track of the order information, returned target result based on filters, and updated the information in shopping cart (PHP, JavaScript, CSS, HTML5)
+Designed and Implemented a MySQL database that manages data of the system and improved performance by creating stored procedures on highly-frequent and critical transactions
+
+
+PROJECT
+
+　　MindMap Web App, UW Seattle, WA                                                  02/2014 - Present
+　　Developer of Independent Study
+Leveraged Dropbox API and cloud computing to build a MindMap Web App which provided a way to illustrate the relationship between different ideas (Javascript, Dropbox API)
+Analysis and matching ideas in different folders via open-source search software provided through the Apache Lucene project
+
+　　Costco Shopping App, UW Seattle, WA                                               01/2013 - 04/2013
+　　Developer of curriculum project
+Conducted research on utilizing mobile technology to rebuild Costco in-store shopping experience (JAVA)
+Implemented an app on Android Operating System which includes shopping list, recommendation, and searching items features
+
+　　Calculator Interpreter, UW Seattle, WA                                                10/2012 - 12/2012
+　　Developer of curriculum project
+Implemented an interpreter consisting of a scanner and a parser based on a calculator language (Ruby)
+Developed a scanner translating inputs into tokens and a parser parsing the token streams to target results
